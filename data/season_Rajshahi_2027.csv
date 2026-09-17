@@ -1,0 +1,13 @@
+month,avg_precip_7d,avg_temp_7d_avg,risk,best_crop,source_years,note
+January,5.21,16.28,medium,Mustard,"2020,2021,2022,2023,2024,2025,2026",moderate risk — keep watch
+February,2.56,19.45,high,Mustard,"2020,2021,2022,2023,2024,2025,2026",⚠️ drought/heat risk
+March,8.49,25.57,medium,Boro Rice,"2020,2021,2022,2023,2024,2025,2026",moderate risk — keep watch
+April,13.43,30.59,medium,Boro Rice,"2020,2021,2022,2023,2024,2025,2026",moderate risk — keep watch
+May,54.36,30.44,low,Aman Rice,"2020,2021,2022,2023,2024,2025,2026",normal
+June,60.75,30.03,low,Aman Rice,"2020,2021,2022,2023,2024,2025,2026",normal
+July,72.12,29.24,low,Aman Rice,"2020,2021,2022,2023,2024,2025,2026",normal
+August,69.54,28.79,low,Aman Rice,"2020,2021,2022,2023,2024,2025,2026",normal
+September,67.22,28.33,low,Aman Rice,"2020,2021,2022,2023,2024,2025,2026",normal
+October,48.48,27.04,low,Aman Rice,"2020,2021,2022,2023,2024,2025",normal
+November,2.66,22.14,high,Potato,"2020,2021,2022,2023,2024,2025",⚠️ drought/heat risk
+December,3.75,17.75,high,Mustard,"2020,2021,2022,2023,2024,2025",⚠️ drought/heat risk
